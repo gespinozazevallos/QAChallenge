@@ -1,0 +1,6 @@
+﻿email,password,status,code,msg
+abc@gmail.com,belltech2014,200,201,SAVED
+abcmail.com,belltech2014,422,998,INVALID
+abcd@gmail.com,124,422,998,INVALID
+bcde@gmail.com,123456,200,201,SAVED
+diego@lacafetalab.pe,password,200,201,LOGIN
